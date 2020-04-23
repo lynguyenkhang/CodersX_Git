@@ -1,0 +1,9 @@
+git reset --soft + <commit's ID>
+	back  newer commits than choosen commit to staging area
+
+git reset --mixed + <commit's ID>
+	back newer comits than choosen commit to working directory
+
+git reset --hard + <commit's ID>
+	delete newer commits than choosen commit
+		! Be careful to use this.

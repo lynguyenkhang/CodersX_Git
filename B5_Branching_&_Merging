@@ -1,0 +1,19 @@
+Create a branch:
+	git checkout -b <branch>
+		-> git  checkout -b feature/dog-class
+								^ the way coder name a branch
+
+Check the using branch:
+	-> git branch
+
+Use branch:
+	-> git checkout <branch>
+
+Merge the changes of Branch to "Master" branch:
+	ex: merger B --> A
+
+	Step 1: git checkout A
+	Step 2: git merge B 
+
+Delete a branch:
+	git branch -D <branch>

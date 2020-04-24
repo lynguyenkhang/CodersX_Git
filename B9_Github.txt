@@ -1,0 +1,3 @@
+git remote add origin <link>
+	ex: git remote add origin https://github.com/lynguyenkhang/CodersX_Git.git
+	

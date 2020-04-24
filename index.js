@@ -1,9 +1,11 @@
 var Dog = require('./Dog.js');
 var Cat = require('./Cat.js');
 
-var dog = new Dog('dog');
-var tom = new Cat();
+var kiki = new Dog('kiki');
+var tom = new Cat('tom');
 
-dog.eat(tom);
-dog.sayHi();
-console.log(dog);
+kiki.sayHi();
+tom.sayHi();
+
+kiki.eat(tom);
+console.log(kiki);

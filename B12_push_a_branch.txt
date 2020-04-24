@@ -4,6 +4,7 @@
  	3. create a pull request on Github
  	4. review code
 		4.1. review code online (github)
-		4.2. fetch branch into local to test offline (optional)
+		4.2.1. fetch branch into local to test offline (optional)
+		4.2.2 . checkout <branch>
 		4.3. approve the pull request.
  	5. merge to master 

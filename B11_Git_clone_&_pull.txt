@@ -1,0 +1,6 @@
+In order to down entire project in a new computer:
+	git clone <link project>
+		ex: git clone https://github.com/lynguyenkhang/CodersX_Git.git
+
+In order load new commit:
+	git pull

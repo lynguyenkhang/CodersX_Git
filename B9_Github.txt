@@ -2,3 +2,6 @@ Push an exisitng repository from the command line:
 	git remote add origin <link>
 		ex: git remote add origin https://github.com/lynguyenkhang/CodersX_Git.git
 	git push -u origin master
+
+To push change in Github
+	git push 
